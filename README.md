@@ -5,7 +5,7 @@ What you need:
 1) WiFi Network
 2) RS232 to TTL Serial Port Converter
 3) NodeMCU
-4) BenQ (TK700)
+4) BenQ Projector (TK700)
 5) DB9 Cable
 
 Who needs an IR remote anyways?!

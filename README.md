@@ -1,4 +1,4 @@
-# ESP-RS232
+# ESP-RS232 BenQ Projector Control
 Simple NodeMCU Project to turn on and off a BenQ projector using web requests and RS232
 
 What you need:

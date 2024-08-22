@@ -7,3 +7,5 @@ What you need:
 3) NodeMCU
 4) BenQ (TK700)
 5) DB9 Cable
+
+Who needs an IR remote anyways?!
